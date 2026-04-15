@@ -5,8 +5,7 @@
 
 ---
 
-I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. I can be reached at dilmidliyanage@gmail.com.
-
+I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. 
 ---
 
 ## 🌐 Connect With Me
@@ -19,6 +18,7 @@ I am an undergraduate at the University of Ruhuna, Faculty of Technology, curren
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
+📫 **Email:** dilmidliyanage@gmail.com
 
 ---
 
@@ -28,33 +28,29 @@ I am an undergraduate at the University of Ruhuna, Faculty of Technology, curren
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilmidevindi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmidevindi&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 🚀 Goals
 
-- Build modern responsive web applications  
-- Improve JavaScript & React skills  
-- Contribute more to open source on :contentReference[oaicite:0]{index=0}  
+- Improve my Frontend Development skills (HTML, CSS, JavaScript, React)  
+- Build responsive and real-world web projects  
+- Strengthen problem-solving skills through coding practice  
+- Grow as a full-stack developer in the future  
 
 ---
 
-## 🤝 Let’s Connect & Grow Together
-
-Feel free to connect with me on :contentReference[oaicite:1]{index=1} or solve coding challenges
