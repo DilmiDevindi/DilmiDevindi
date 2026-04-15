@@ -7,7 +7,7 @@
 <p>I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. </p>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dilmi-devindi-b397652aa/" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
@@ -44,12 +44,11 @@
 </p>
 
 
-## 🚀 Goals
+## Goals
 
 - Improve my Frontend Development skills (HTML, CSS, JavaScript, React)  
 - Build responsive and real-world web projects  
 - Strengthen problem-solving skills through coding practice  
 - Grow as a full-stack developer in the future  
 
----
 
