@@ -5,7 +5,7 @@
 
 ---
 
-I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. 
+<p>I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. </p>
 ---
 
 ## 🌐 Connect With Me
@@ -18,7 +18,7 @@ I am an undergraduate at the University of Ruhuna, Faculty of Technology, curren
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
-📫 **Email:** dilmidliyanage@gmail.com
+📫Email: dilmidliyanage@gmail.com
 
 ---
 
