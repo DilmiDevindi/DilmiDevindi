@@ -3,10 +3,9 @@
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=dilmidevindi&label=Profile%20views&color=0e75b6&style=flat" alt="dilmidevindi" /> </p>
 
----
 
 <p>I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. </p>
----
+
 
 ## 🌐 Connect With Me
 
