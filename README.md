@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dilmi Devindi</h1>
-<h3 align="center">I am an undergraduate in the Faculty of Technology at the University of Ruhuna.</h3>
+<h3 align="center">An undergraduate in the Bachelor of Information and Communication Technology at the Faculty of Technology, University of Ruhuna.</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=dilmidevindi&label=Profile%20views&color=0e75b6&style=flat" alt="dilmidevindi" /> </p>
 
 
-<p>I am an undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development. I am passionate about web development, UI/UX design, and software engineering, and I enjoy learning new technologies to improve my skills. I am dedicated to building clean, user-friendly digital experiences and continuously growing as a future software developer. </p>
+<p> An undergraduate at the University of Ruhuna, Faculty of Technology, currently focusing on Frontend Development with a strong interest in web development, UI/UX design, and software engineering. Passionate about learning new technologies and continuously improving skills through hands-on projects. Dedicated to building clean, user-friendly digital experiences while growing as a future software developer. </p>
 
 
 ## Connect With Me
